@@ -7,13 +7,6 @@ init python:
         renpy.pause(duration)
         renpy.hide('flash_screen', layer='screens')
 
-define systemVoice = Character('системный голос', color="#008080")
-define e = Character('...', color= "#FFFFFF")
-define marta = Character('Марта Селл', color= "#FFB6C1" )
-define aren = Character('Арен', color= "#0000CD" )
-define lina = Character('Лина Краус', color = "#F08080")
-define iris = Character('Ирис Вальд', color= "#F")
-
 image marta_sell = "marta_sell.jpg"
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.

@@ -1,0 +1,6 @@
+define systemVoice = Character('системный голос', color="#008080")
+define e = Character('...', color= "#FFFFFF")
+define marta = Character('Марта Селл', color= "#FFB6C1" )
+define aren = Character('Арен', color= "#0000CD" )
+define lina = Character('Лина Краус', color = "#F08080")
+define iris = Character('Ирис Вальд', color= "#FF69B4")
