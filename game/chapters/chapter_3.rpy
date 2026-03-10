@@ -71,4 +71,5 @@ label counter_question:
 
 label chapter_3_end:
     e "Эхо незакрытых дверей ещё долго витает в зале отражений."
-    return
+    
+    jump chapter_4
