@@ -125,5 +125,7 @@
                 }
             }
         ]
-    }
+    },
+    "renpyWarp.sdkPath": "/home/nikita/.config/Code/User/globalStorage/paisleysoftworks.renpywarp/file-downloader-downloads/8.5.2",
+    "renpyWarp.renpyExtensionsEnabled": "Enabled"
 }

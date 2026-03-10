@@ -3,7 +3,7 @@
 # Определение персонажей игры.
 init python:
     def flash_text(message, duration=2.5, size=60):
-        renpy.show('flas_screen',what=Text(message, size=size, color='#FFFFFF', text_align=0.5, yalign=0.5), zorder=1000,layer='screens')
+        renpy.show('flash_screen',what=Text(message, size=size, color='#FFFFFF', text_align=0.5, yalign=0.5), zorder=1000,layer='screens')
         renpy.pause(duration)
         renpy.hide('flash_screen', layer='screens')
 
