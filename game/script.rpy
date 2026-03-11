@@ -8,6 +8,7 @@ init python:
         renpy.hide('flash_screen', layer='screens')
 
 image marta_sell = "marta_sell.jpg"
+image cabinet = "cabinet_gilogo_sectora.jpg"
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
 # Например, сцену bg room можно вызвать файлом "bg room.png",
