@@ -234,6 +234,8 @@ label coridor:
 
     $ renpy.notify("Вы оказались в коридоре")
 
+    scene coridor with fade
+
     e "Они идут по узкому проходу."
 
     e "Свет ламп мерцает
@@ -263,6 +265,8 @@ label apartment:
     scene apartment with fade
 
     $ renpy.notify("Вы оказались в квартире")
+
+    # scene kvartira with fade # квартира
 
     e "Комната пуста."
 
@@ -342,6 +346,7 @@ label ask_marta:
     e "Никто из них
     не двигается."
 
+    # scene lina with fade # Появление Лины
 
     e "Внезапно дверь
     распахивается."

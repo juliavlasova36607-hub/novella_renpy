@@ -2,6 +2,7 @@ label chapter_2:
     $ renpy.notify("Тот, кто помнит")
 
     # Локация: переход между секторами
+    # scene perexod with fade
     systemVoice "Предыстория"
     systemVoice "Полумрак коридора рассекали редкие лампы."
     systemVoice "Они отбрасывали длинные тени на металлические панели стен."

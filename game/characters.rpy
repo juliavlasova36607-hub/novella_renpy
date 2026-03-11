@@ -1,4 +1,4 @@
-define systemVoice = Character('Системный голос', color="#008080")
+define systemVoice = Character(None, color="#008080")
 
 define e = Character('...', color="#FFFFFF")
 

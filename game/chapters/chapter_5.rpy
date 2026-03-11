@@ -2,6 +2,8 @@ label chapter_5:
 
     $ renpy.notify("Глава 5 — Ключ, замок и дверь")
 
+    # scene perekrestok_mirow with fade # Перекресток миров
+
     e "Пространство вокруг Арена не имело привычных координат."
     e "Оно пульсировало, словно живое сердце — сжимаясь до точки и расширяясь в бесконечность."
 
@@ -124,6 +126,8 @@ label ch5_doors:
 
 label ch5_fear:
 
+    # scene door_straxa with fade
+
     e "Дверь медленно открывается."
 
     e "Арен видит себя ребёнком."
@@ -145,6 +149,8 @@ label ch5_fear:
 # ДВЕРЬ СОМНЕНИЙ
 
 label ch5_doubt:
+
+    # scene door_somneniy with fade
 
     e "Комната с зеркалами."
 
@@ -168,6 +174,8 @@ label ch5_doubt:
 # ДВЕРЬ ИСТИНЫ
 
 label ch5_truth:
+
+    # scene door_istini with fade
 
     e "Перед ним гладкая поверхность."
 
@@ -226,6 +234,8 @@ label ch5_big_door:
 # ЗАЛ ВЕЧНЫХ ИСТИН
 
 label ch5_hall:
+
+    scene zal_istin with fade
 
     e "Зал вечных истин."
 
@@ -312,6 +322,8 @@ label ch5_book_question:
 
 
 label ch5_final:
+
+    scene open_istini with fade
 
     e "Арен разворачивает свиток."
 

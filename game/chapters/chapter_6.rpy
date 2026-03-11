@@ -2,6 +2,8 @@ label chapter_6:
 
     $ renpy.notify("Глава 6 — Последний выбор")
 
+    scene pogranichie_mirow with dafe
+
     e "Пространство вокруг Арена не поддаётся осмыслению."
     e "Оно пульсирует, то сжимаясь до точки, то расширяясь в бесконечность."
 
@@ -216,6 +218,8 @@ label ch6_third:
 label ch6_return_scene:
 
     e "Свет постепенно гаснет."
+
+    scene vozvrashenie with fade
 
     e "Арен стоит в архиве."
 

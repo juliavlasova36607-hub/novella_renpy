@@ -9,6 +9,21 @@ init python:
 
 image marta_sell = "marta_sell.jpg"
 image cabinet = "cabinet_gilogo_sectora.jpg"
+image coridor = "coridor.jpg"
+# image kvartira = "" # Квартира
+# image lina = "" # Появление Лины
+# image perexod = "" # Переход между секторами
+# image zal_otrazheniy = "" # зал отражений
+# image komnata_bez_vremeniwith = "" # комната без времени
+# image perekrestok_mirow = "" # Перекресток миров
+# image door_straxa = "" # Дверь страха
+# image door_somneniy = "" # Дверь сомнений
+# image door_istini = "" # Дверь истины
+# image zal_istin = "" # Зал вечных истин
+# image open_istini = "" # Открытие истины 
+# image pogranichie_mirow = "" # пограничье миров
+# image vozvrashenie = "" # Возвращение
+
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
 # Например, сцену bg room можно вызвать файлом "bg room.png",
